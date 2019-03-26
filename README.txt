@@ -1,1 +1,0 @@
-Implementing some of the Gangs of Four's design patterns.  
